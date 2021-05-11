@@ -1,0 +1,7 @@
+__main__    : INFO     read RMTL CSV
+__main__    : INFO     Execution Steps: rmtl
+__main__    : INFO     Execution Steps: rmtl
+__main__    : INFO     {'inputs': {'rmtl': ['data/inputs/rmtl.csv'], 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': ['data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}
+__main__    : INFO     Execution Steps: rmtl
+__main__    : INFO     Execution Steps: rmtl
+modules.RMTL: INFO     run
