@@ -1,11 +1,9 @@
 ---
 rmtl:
   inputs:
-    rmtl:
-      - data/inputs/rmtl.csv
+    rmtl: data/inputs/rmtl.csv
     targets:
       - data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json
-  outputs:
-    - data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json
+  output: data/outputs/targets/
 steps:
   - rmtl

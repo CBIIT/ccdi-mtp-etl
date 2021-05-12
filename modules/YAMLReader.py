@@ -7,7 +7,6 @@ ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 logger = logging.getLogger(__name__)
 
-
 class YAMLReader(object):
 
     def __init__(self, yaml_file):
@@ -22,7 +21,6 @@ class YAMLReader(object):
         return self.yaml_dictionary
 
     def read_yaml(self, standard_output=False):
-        # print("Config file: " + self.yaml_file )
         with open(self.yaml_file, 'r') as stream:
             try:
                 self.yaml_data = yaml.load(stream, yaml.SafeLoader)

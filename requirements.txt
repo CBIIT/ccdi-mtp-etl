@@ -1,4 +1,4 @@
 pip3 install configargparse
 pip3 install PyYAML
-./venv/bin/pip3 install addict
-./venv/bin/pip3 install  definitions
+pip3 install addict
+pip3 install definitions

@@ -5,3 +5,535 @@ __main__    : INFO     {'inputs': {'rmtl': ['data/inputs/rmtl.csv'], 'targets': 
 __main__    : INFO     Execution Steps: rmtl
 __main__    : INFO     Execution Steps: rmtl
 modules.RMTL: INFO     run
+__main__    : INFO     Execution Steps: rmtl
+__main__    : INFO     Execute Step  rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': ['data/inputs/rmtl.csv'], 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': ['data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}
+__main__    : INFO     Execution Steps: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': ['data/inputs/rmtl.csv'], 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': ['data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}
+__main__    : INFO     Execution Steps: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': ['data/inputs/rmtl.csv'], 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': ['data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}
+__main__    : INFO     Execution Steps: rmtl
+__main__    : INFO     Execution Steps: test
+__main__    : INFO     Execution Steps: test
+__main__    : INFO     Execution Steps: test
+__main__    : INFO     Execution Steps: test
+__main__    : INFO     Execution Steps: test
+__main__    : INFO     Unknown step: test
+__main__    : INFO     Request to run step: test
+__main__    : INFO     Unknown step: test
+__main__    : INFO     Request to run step: test
+__main__    : ERROR    Unknown step: test
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': ['data/inputs/rmtl.csv'], 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': ['data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': ['data/inputs/rmtl.csv'], 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': ['data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': ['data/inputs/rmtl.csv'], 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': ['data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}
+modules.RMTL: INFO     read RMTL list from ['data/inputs/rmtl.csv']
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': ['data/inputs/rmtl.csv'], 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': ['data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}
+modules.RMTL: INFO     read RMTL list from ['data/inputs/rmtl.csv']
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': ['data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': ['data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': ['data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': ['data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': ['data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': ['data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': ['data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': ['data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': ['data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': ['data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': ['data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': ['data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': ['data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': ['data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+modules.RMTL: INFO     Output Processed Target file
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': ['data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': ['data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': ['data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': ['data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+modules.RMTL: INFO     Parsing target file  part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.jsont
+modules.RMTL: INFO     target -- ENSG00000041357 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000080824 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000091831 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000100567 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000101162 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000102755 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000103035 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000105329 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000122025 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000123496 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000126067 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000131203 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000131467 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000134954 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000138496 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000152784 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000167965 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000171552 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000178685 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000184507 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000213923 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000251297 --- matches RMTL list
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': ['data/outputs/targets/']}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+modules.RMTL: INFO     Parsing target file  part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.jsont
+modules.RMTL: INFO     target -- ENSG00000041357 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000080824 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000091831 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000100567 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000101162 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000102755 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000103035 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000105329 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000122025 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000123496 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000126067 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000131203 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000131467 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000134954 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000138496 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000152784 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000167965 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000171552 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000178685 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000184507 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000213923 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000251297 --- matches RMTL list
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': ['data/outputs/targets/']}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+modules.RMTL: INFO     Parsing target file  part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.jsont
+modules.RMTL: INFO     target -- ENSG00000041357 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000080824 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000091831 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000100567 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000101162 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000102755 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000103035 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000105329 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000122025 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000123496 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000126067 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000131203 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000131467 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000134954 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000138496 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000152784 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000167965 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000171552 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000178685 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000184507 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000213923 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000251297 --- matches RMTL list
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json'], 'outputs': 'data/outputs/targets/'}}
+modules.RMTL: ERROR    InValid Configuration setting for RMTL
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': 'data/outputs/targets/'}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+modules.RMTL: INFO     Parsing target file  part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.jsont
+modules.RMTL: INFO     target -- ENSG00000041357 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000080824 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000091831 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000100567 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000101162 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000102755 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000103035 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000105329 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000122025 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000123496 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000126067 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000131203 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000131467 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000134954 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000138496 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000152784 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000167965 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000171552 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000178685 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000184507 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000213923 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000251297 --- matches RMTL list
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'outputs': 'data/outputs/targets/'}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+modules.RMTL: INFO     Parsing target file  part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.jsont
+modules.RMTL: INFO     target -- ENSG00000041357 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000080824 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000091831 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000100567 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000101162 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000102755 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000103035 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000105329 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000122025 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000123496 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000126067 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000131203 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000131467 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000134954 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000138496 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000152784 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000167965 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000171552 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000178685 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000184507 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000213923 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000251297 --- matches RMTL list
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'output': 'data/outputs/targets/'}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+modules.RMTL: INFO     Parsing target file  part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.jsont
+modules.RMTL: INFO     target -- ENSG00000041357 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000080824 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000091831 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000100567 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000101162 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000102755 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000103035 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000105329 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000122025 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000123496 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000126067 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000131203 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000131467 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000134954 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000138496 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000152784 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000167965 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000171552 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000178685 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000184507 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000213923 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000251297 --- matches RMTL list
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'output': 'data/outputs/targets/'}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+modules.RMTL: INFO     Parsing target file  part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.jsont
+modules.RMTL: INFO     target -- ENSG00000041357 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000080824 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000091831 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000100567 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000101162 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000102755 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000103035 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000105329 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000122025 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000123496 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000126067 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000131203 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000131467 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000134954 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000138496 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000152784 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000167965 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000171552 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000178685 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000184507 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000213923 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000251297 --- matches RMTL list
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'output': 'data/outputs/targets/'}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+modules.RMTL: INFO     Parsing target file  part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.jsont
+modules.RMTL: INFO     target -- ENSG00000041357 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000080824 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000091831 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000100567 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000101162 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000102755 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000103035 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000105329 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000122025 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000123496 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000126067 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000131203 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000131467 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000134954 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000138496 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000152784 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000167965 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000171552 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000178685 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000184507 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000213923 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000251297 --- matches RMTL list
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'output': 'data/outputs/targets/'}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+modules.RMTL: INFO     Parsing target file  part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.jsont
+modules.RMTL: INFO     target -- ENSG00000041357 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000080824 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000091831 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000100567 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000101162 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000102755 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000103035 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000105329 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000122025 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000123496 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000126067 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000131203 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000131467 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000134954 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000138496 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000152784 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000167965 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000171552 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000178685 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000184507 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000213923 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000251297 --- matches RMTL list
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'output': 'data/outputs/targets/'}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+modules.RMTL: INFO     Parsing target file  part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.jsont
+modules.RMTL: INFO     target -- ENSG00000041357 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000080824 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000091831 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000100567 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000101162 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000102755 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000103035 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000105329 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000122025 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000123496 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000126067 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000131203 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000131467 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000134954 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000138496 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000152784 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000167965 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000171552 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000178685 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000184507 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000213923 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000251297 --- matches RMTL list
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'output': 'data/outputs/targets/'}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+modules.RMTL: INFO     Parsing target file  part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.jsont
+modules.RMTL: INFO     target -- ENSG00000041357 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000080824 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000091831 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000100567 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000101162 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000102755 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000103035 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000105329 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000122025 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000123496 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000126067 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000131203 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000131467 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000134954 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000138496 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000152784 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000167965 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000171552 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000178685 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000184507 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000213923 --- matches RMTL list
+modules.RMTL: INFO     target -- ENSG00000251297 --- matches RMTL list
+modules.RMTL: INFO     Save Processed Target file to data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'output': 'data/outputs/targets/'}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+modules.RMTL: INFO     Parsing target file  part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.jsont
+modules.RMTL: INFO     target -- ENSG00000041357 --- matches RMTL list PSMA4 
+modules.RMTL: INFO     target -- ENSG00000080824 --- matches RMTL list HSP90AA1 
+modules.RMTL: INFO     target -- ENSG00000091831 --- matches RMTL list ESR1 
+modules.RMTL: INFO     target -- ENSG00000100567 --- matches RMTL list PSMA3 
+modules.RMTL: INFO     target -- ENSG00000101162 --- matches RMTL list TUBB1 
+modules.RMTL: INFO     target -- ENSG00000102755 --- matches RMTL list FLT1 
+modules.RMTL: INFO     target -- ENSG00000103035 --- matches RMTL list PSMD7 
+modules.RMTL: INFO     target -- ENSG00000105329 --- matches RMTL list TGFB1 
+modules.RMTL: INFO     target -- ENSG00000122025 --- matches RMTL list FLT3 
+modules.RMTL: INFO     target -- ENSG00000123496 --- matches RMTL list IL13RA2 
+modules.RMTL: INFO     target -- ENSG00000126067 --- matches RMTL list PSMB2 
+modules.RMTL: INFO     target -- ENSG00000131203 --- matches RMTL list IDO1 
+modules.RMTL: INFO     target -- ENSG00000131467 --- matches RMTL list PSME3 
+modules.RMTL: INFO     target -- ENSG00000134954 --- matches RMTL list ETS1 
+modules.RMTL: INFO     target -- ENSG00000138496 --- matches RMTL list PARP9 
+modules.RMTL: INFO     target -- ENSG00000152784 --- matches RMTL list PRDM8 
+modules.RMTL: INFO     target -- ENSG00000167965 --- matches RMTL list MLST8 
+modules.RMTL: INFO     target -- ENSG00000171552 --- matches RMTL list BCL2L1 
+modules.RMTL: INFO     target -- ENSG00000178685 --- matches RMTL list PARP10 
+modules.RMTL: INFO     target -- ENSG00000184507 --- matches RMTL list NUTM1 
+modules.RMTL: INFO     target -- ENSG00000213923 --- matches RMTL list CSNK1E 
+modules.RMTL: INFO     target -- ENSG00000251297 --- matches RMTL list TUBB7P 
+modules.RMTL: INFO     Save Processed Target file to data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'output': 'data/outputs/targets/'}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+modules.RMTL: INFO     Parsing target file  part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.jsont
+modules.RMTL: INFO     target -- ENSG00000041357 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000080824 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000091831 --- matches RMTL list Non-Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000100567 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000101162 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000102755 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000103035 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000105329 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000122025 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000123496 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000126067 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000131203 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000131467 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000134954 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000138496 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000152784 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000167965 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000171552 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000178685 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000184507 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000213923 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000251297 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     Save Processed Target file to data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'output': 'data/outputs/targets/'}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+modules.RMTL: INFO     Parsing target file  part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.jsont
+modules.RMTL: INFO     target -- ENSG00000041357 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000080824 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000091831 --- matches RMTL list Non-Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000100567 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000101162 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000102755 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000103035 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000105329 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000122025 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000123496 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000126067 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000131203 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000131467 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000134954 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000138496 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000152784 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000167965 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000171552 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000178685 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000184507 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000213923 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000251297 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     Save Processed Target file to data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'output': 'data/outputs/targets/'}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+modules.RMTL: INFO     Parsing target file  part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.jsont
+modules.RMTL: INFO     target -- ENSG00000041357 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000080824 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000091831 --- matches RMTL list Non-Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000100567 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000101162 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000102755 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000103035 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000105329 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000122025 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000123496 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000126067 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000131203 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000131467 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000134954 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000138496 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000152784 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000167965 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000171552 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000178685 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000184507 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000213923 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000251297 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     Save Processed Target file to data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'output': 'data/outputs/targets/'}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+modules.RMTL: INFO     Parsing target file  part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.jsont
+modules.RMTL: INFO     target -- ENSG00000041357 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000080824 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000091831 --- matches RMTL list Non-Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000100567 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000101162 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000102755 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000103035 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000105329 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000122025 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000123496 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000126067 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000131203 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000131467 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000134954 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000138496 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000152784 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000167965 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000171552 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000178685 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000184507 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000213923 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000251297 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     Save Processed Target file to data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json
+__main__    : INFO     Request to run step: rmtl
+modules.RMTL: INFO     {'inputs': {'rmtl': 'data/inputs/rmtl.csv', 'targets': ['data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json']}, 'output': 'data/outputs/targets/'}
+modules.RMTL: INFO     read RMTL list from data/inputs/rmtl.csv
+modules.RMTL: INFO     Parsing target file  part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.jsont
+modules.RMTL: INFO     target -- ENSG00000041357 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000080824 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000091831 --- matches RMTL list Non-Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000100567 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000101162 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000102755 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000103035 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000105329 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000122025 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000123496 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000126067 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000131203 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000131467 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000134954 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000138496 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000152784 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000167965 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000171552 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000178685 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000184507 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000213923 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     target -- ENSG00000251297 --- matches RMTL list Relevant Molecular Target 
+modules.RMTL: INFO     Save Processed Target file to data/outputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json
