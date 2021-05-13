@@ -16,7 +16,7 @@ with the various command line, environment, and ini/yaml file options.
 
 def setup_parser():
     p = configargparse.get_argument_parser(config_file_parser_class=configargparse.YAMLConfigFileParser)
-    p.description = 'PPDC data piple line'
+    p.description = 'PPDC data pipleline'
 
     # argument to read config file
     p.add('-c', '--config', is_config_file=True,
