@@ -3,7 +3,7 @@ rmtl:
   inputs:
     rmtl: data/inputs/rmtl.csv
     targets:
-      - data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json
-  output: data/outputs/targets/
+      - targets/part-00000-32b02549-fafc-48cf-9109-0c4b7c62e2c6-c000.json
+  output: data/target_chop
 steps:
   - rmtl
