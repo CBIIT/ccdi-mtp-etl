@@ -29,6 +29,7 @@ Add rmtl propery to the target if match a record in the RMTL list
 '''
 def addRMTLProperyToTarget(target,RMTLList):
      for rmtl in RMTLList:
+         target["rmtl_fda_designation"]=""
          #  target id matchs Ensembl_ID
          if rmtl[0]==target["id"]:
              logger.info("target -- %s --- matches RMTL list %s ", target["id"], rmtl[2])
