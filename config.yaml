@@ -3,7 +3,41 @@ rmtl:
   inputs:
     rmtl: data/inputs/rmtl.csv
     targets:
-      - data/inputs/targets/part-00000-2099be1d-059f-4e90-9263-7d205e2ba50f-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00000-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00001-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00002-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00003-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00004-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00005-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00006-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00007-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00008-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00009-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00010-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00011-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00012-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00013-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00014-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00015-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00016-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00017-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00018-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00019-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00020-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00021-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00022-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00023-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00024-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00025-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00026-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00027-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00028-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00029-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00030-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00031-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00032-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00033-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
+      - /Users/cheny39/Documents/work/targets_21_06/part-00034-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
   output: data/outputs/targets/
 steps:
   - rmtl
