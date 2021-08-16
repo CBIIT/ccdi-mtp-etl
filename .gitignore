@@ -1,2 +1,5 @@
 venv/
 log/output.log
+config.yaml
+.idea/
+modules/__pycache__/
