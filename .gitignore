@@ -3,3 +3,5 @@ log/output.log
 config.yaml
 .idea/
 modules/__pycache__/
+data/
+.DS_Store 
