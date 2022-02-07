@@ -39,5 +39,11 @@ rmtl:
       - /Users/cheny39/Documents/work/targets_21_06/part-00033-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
       - /Users/cheny39/Documents/work/targets_21_06/part-00034-d9b064a1-a213-4da8-a42d-7c2521e24e47-c000.json
   output: data/outputs/targets/
+ped-can-data-nav:
+  inputs:
+    navigation:
+      - /Users/tesfatsionnh/Documents/Work/Data/chopDataNavigationTable.json
+
+  output: data/outputs/navigation/
 steps:
-  - rmtl
+  - ped-can-data-nav
