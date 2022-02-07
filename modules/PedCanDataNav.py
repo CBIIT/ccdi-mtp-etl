@@ -31,8 +31,10 @@ def process(dataPath, config):
     targetFileName = "targetOptions.json"
     diseaseFileName = "diseaseOptions.json"
 
-    aggregateTarget = targetOptions = []
-    aggregateDisease = diseaseOptions = []
+    aggregateTarget = []
+    targetOptions = []
+    aggregateDisease = []
+    diseaseOptions = []
 
     logger.info("Parsing Pediatric Cancer Data Navigation file %s to "
                 "return list of Disease and Target options", dataFileName)
@@ -52,12 +54,13 @@ def process(dataPath, config):
             aggregateTarget.append(targetId)
             targetOptions.append(
                 {"Gene_symbol": row["Gene_symbol"], "targetFromSourceId": targetId})
+
         counter += 1
         commons.progress(counter, datalength)
 
-    logger.info("Sorting Disease Options by Disease value")
     # Sort by Disease name
-    diseaseOptions = sorted(diseaseOptions, key=lambda d: d['Disease'].lower())
+    logger.info("Sorting Disease Options by Disease value")
+    diseaseOptions = sorted(diseaseOptions, key=lambda d: d["Disease"].lower())
     logger.info("Sorting Target Options by Gene_symbol value")
     # Sort by Gene symbol
     targetOptions = sorted(
