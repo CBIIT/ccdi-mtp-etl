@@ -44,17 +44,16 @@ def process(dataPath, config):
     # Add Target and Disease property into list of options
     for row in data[0]:
         diseaseId = row["diseaseFromSourceMappedId"]
-        targetId = row["targetFromSourceId"]
+        geneSymbol = row["Gene_symbol"]
         if aggregateDisease.count(diseaseId) == 0:
             aggregateDisease.append(diseaseId)
             diseaseOptions.append(
                 {"Disease": row["Disease"], "diseaseFromSourceMappedId": diseaseId})
 
-        if aggregateTarget.count(targetId) == 0:
-            aggregateTarget.append(targetId)
+        if aggregateTarget.count(geneSymbol) == 0:
+            aggregateTarget.append(geneSymbol)
             targetOptions.append(
-                {"Gene_symbol": row["Gene_symbol"], "targetFromSourceId": targetId})
-
+                {"Gene_symbol": geneSymbol, "targetFromSourceId": row["targetFromSourceId"]})
         counter += 1
         commons.progress(counter, datalength)
 
