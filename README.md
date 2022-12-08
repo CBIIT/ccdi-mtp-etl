@@ -1,4 +1,4 @@
-# ppdc-data-pipeline
+# mtp-data-pipeline
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/57b7b28b7a284930a6d40b17695af576)](https://app.codacy.com/gh/CBIIT/ppdc-data-pipeline?utm_source=github.com&utm_medium=referral&utm_content=CBIIT/ppdc-data-pipeline&utm_campaign=Badge_Grade_Settings)
 
